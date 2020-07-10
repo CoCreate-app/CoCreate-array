@@ -15,7 +15,7 @@ function initSocketsForArray() {
     insertCreatedIdToArray(data);
   })
   
-  CoCreateSocket.listen('getDocument', function(data) {
+  CoCreateSocket.listen('readDocument', function(data) {
     fetchedDataForArray(data);
   })
   
@@ -260,7 +260,7 @@ function fetchArrays() {
   }
   
   fetchArray.forEach((item) => {
-    CoCreate.getDocument({
+    CoCreate.readDocument({
       collection: item['data-collection'],
       document_id: item['id'],
       metadata: ''

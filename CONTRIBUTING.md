@@ -1,4 +1,4 @@
-# Contributing to CoCreateJS
+# Contributing to CoCreate Array
 
 This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-array/graphs/contributors).
 You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-array/pulls),
@@ -8,12 +8,12 @@ In the examples below, substitute your Github username for `contributor` in URLs
 
 ## Fork the Project
 
-Fork the [project on Github](https://github.com/CoCreate-app/CoCreateJS) and check out your copy.
+Fork the [project on Github](https://github.com/CoCreate-app/CoCreate-array) and check out your copy.
 
 ```
-git clone https://github.com/contributor/CoCreateJS.git
+git clone https://github.com/contributor/CoCreate-array.git
 cd CoCreateJS
-git remote add upstream https://github.com/CoCreate-app/CoCreateJS.git
+git remote add upstream https://github.com/CoCreate-app/CoCreate-array.git
 ```
 
 ## Create a Topic Branch
