@@ -2,7 +2,7 @@ var arrayClass = 'arrayField';
 
 initSocketsForArray();
 initArrayForms();
-
+//-2
 function initSocketsForArray() {
   CoCreateSocket.listen('connect', function (data, room) {
     console.log('socket connected');
