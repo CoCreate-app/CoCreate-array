@@ -1,4 +1,4 @@
-# CoCreate Array test
+# CoCreate Array
 A CoCreateJS component to define a group of input's, textarea's, select's, contenteditable Html tags and save thier values as an array in the database.
 
 ![CoCreate](https://cdn.cocreate.app/logo.png)
