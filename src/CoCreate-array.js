@@ -275,9 +275,9 @@ function fetchArrays() {
   })
 }
 
-const array = { fetchArrays,
+const CoCreateArray = { fetchArrays,
 updateArrayData, fetchedDataForArray, updateArray,
 getArrayValue, insertCreatedIdToArray, socketConnectedForArray,
 initArrayTag, initArrayTags, initArrayForms, initSocketsForArray
 /* define other function*/ };
-export default array;
+export default CoCreateArray;
